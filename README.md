@@ -2,9 +2,9 @@
 - 👀 I’m interested in wed design 
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on you all
-- 📫 How to reach me on facebook @Ankorah Faith, on Twitter @
+- 📫 How to reach me on ankorahfaith46@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: like to explore 
 
 <!---
 korah-faith/korah-faith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
