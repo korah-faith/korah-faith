@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korah-faith
-- 👀 I’m interested in wed design 
+- 👀 I’m interested in web design 
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on you all
 - 📫 How to reach me on ankorahfaith46@gmail.com
